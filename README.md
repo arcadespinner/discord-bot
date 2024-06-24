@@ -16,9 +16,9 @@ Before you run a bot on a Discord server, you need to create it first using Disc
 [![Creating Discord Bot Tutorial](https://i.ytimg.com/vi/KUzQTkGzofU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnwoqlwnqeB7_kFVDj5GytXzudeA)](https://www.youtube.com/watch?v=KUzQTkGzofU "How To Create Discord Bot")
 
 ## Running A Discord Bot On Windows
-If you want to run a Discord bot on a Windows PC<br />:
+If you want to run a Discord bot on a Windows PC:<br />
 [![Windows PC: Run Discord Bot](https://i.ytimg.com/vi/1e5xnuRHGd8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCb9AuIGvuiootLeV8WusmB6EmFhQ)](https://www.youtube.com/watch?v=1e5xnuRHGd8 "How To Run Discord Bot On Windows")
 
 ## Running A Discord Bot On Raspberry Pi
-If you want to run a Discord bot on a Raspberry Pi<br />:
+If you want to run a Discord bot on a Raspberry Pi:<br />
 [![Raspberry Pi: Run Discord Bot](https://i.ytimg.com/vi/l6zLilCj7TY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8PO3QqibDy_lX8-k6deLgkF_CLA)](https://www.youtube.com/watch?v=l6zLilCj7TY "How To Run Discord Bot On Raspberry Pi")
