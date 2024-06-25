@@ -12,7 +12,7 @@ To run your bot, you can follow these steps:
 3. Run the bot using [**bot.py**](bot.py).
 
 ## Creating A Discord Bot
-Before you run a bot on a Discord server, you need to create it first using Discord Developer Portal. Here's a video tutorial walking through this entire process:<br />
+Before you run a bot on a Discord server, you need to create it first using [Discord Developer Portal](https://discord.dev "Discord Developer Portal"). Here's a video tutorial walking through this entire process:<br />
 [![Creating Discord Bot Tutorial](https://i.ytimg.com/vi/KUzQTkGzofU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnwoqlwnqeB7_kFVDj5GytXzudeA)](https://www.youtube.com/watch?v=KUzQTkGzofU "How To Create Discord Bot")
 
 ## Running A Discord Bot On Windows
